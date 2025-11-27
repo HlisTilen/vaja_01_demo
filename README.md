@@ -1,3 +1,3 @@
 # RIRS
 
-### Uvod v GitHub Flow in Github Actions
+### Uvod v GitHub Flow in GitHub Actions
