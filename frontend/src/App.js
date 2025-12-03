@@ -17,7 +17,6 @@ function App() {
         >
           Learn React
         </a>
-        <button>Gumb</button>
       </header>
     </div>
   );
