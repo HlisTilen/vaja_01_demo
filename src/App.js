@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <span>Dobro jutro radni narod</span>
+        <span>Dobro jutro!</span>
       </header>
     </div>
   );
